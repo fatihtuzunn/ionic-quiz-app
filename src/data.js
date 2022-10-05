@@ -1,24 +1,99 @@
 export var test1= [{
-    question: `What is the name of Han Solo's ship?`,
+    question: `Aşağıdakilerden hangisi ilk yardımcıda bulunması gereken özelliklerdendir? `,
     answers: [{
-      answer: 'Millennium Falcon',
+      answer: 'İnsan vücudu ile ilgili temel bilgilere sahip olması',
       correct: true,
     }, {
-      answer: 'USS Enterprise'
+      answer: 'Telaşlı ve tedirgin olması'
     }, {
-      answer: 'Battlestar Galactica'
-    }]
-  }, {
-    question: `Which young Jedi Knight becomes Darth Vader in Star Wars?`,
+      answer: 'İletişim becerilerinin zayıf olması'
+    }
+    , {
+      answer: 'İletişim becerilerinin zayıf olması'
+    }
+  
+  ]
+  }
+  , {
+    question: `Kazazedeye sözlü uyaranla ya da hafifçe omzuna dokunarak “iyi misiniz?” diye sorularak - - - - değerlendirmesi yapılır. Yukarıdaki açıklamada boş bırakılan yere hangisi yazılmalıdır? `,
     answers: [{
-      answer: 'Anakin Skywalker',
+      answer: 'bilinç durumu',
       correct: true,
     }, {
-      answer: 'Luke Skywalker'
+      answer: 'dolaşım'
     }, {
-      answer: 'Obi-Wan Kenobi'
-    }]
-  }]
+      answer: 'hava yolu açıklığı'
+    }, {
+      answer: 'hava yolu açıklığı'
+    }
+  ]
+  }
+  , {
+    question: `Kazazedeye sözlü uyaranla ya da hafifçe omzuna dokunarak “iyi misiniz?” diye sorularak - - - - değerlendirmesi yapılır. Yukarıdaki açıklamada boş bırakılan yere hangisi yazılmalıdır? `,
+    answers: [{
+      answer: 'bilinç durumu',
+      correct: true,
+    }, {
+      answer: 'dolaşım'
+    }, {
+      answer: 'hava yolu açıklığı'
+    }, {
+      answer: 'hava yolu açıklığı'
+    }
+  ]
+  }
+  , {
+    question: `Kazazedeye sözlü uyaranla ya da hafifçe omzuna dokunarak “iyi misiniz?” diye sorularak - - - - değerlendirmesi yapılır. Yukarıdaki açıklamada boş bırakılan yere hangisi yazılmalıdır? `,
+    answers: [{
+      answer: 'bilinç durumu',
+      correct: true,
+    }, {
+      answer: 'dolaşım'
+    }, {
+      answer: 'hava yolu açıklığı'
+    }, {
+      answer: 'hava yolu açıklığı'
+    }
+  ]
+  }
+  , {
+    question: `Kazazedeye sözlü uyaranla ya da hafifçe omzuna dokunarak “iyi misiniz?” diye sorularak - - - - değerlendirmesi yapılır. Yukarıdaki açıklamada boş bırakılan yere hangisi yazılmalıdır? `,
+    answers: [{
+      answer: 'bilinç durumu',
+      correct: true,
+    }, {
+      answer: 'dolaşım'
+    }, {
+      answer: 'hava yolu açıklığı'
+    }, {
+      answer: 'hava yolu açıklığı'
+    }
+  ]
+  }
+  , {
+    question: `Kazazedeye sözlü uyaranla ya da hafifçe omzuna dokunarak “iyi misiniz?” diye sorularak - - - - değerlendirmesi yapılır. Yukarıdaki açıklamada boş bırakılan yere hangisi yazılmalıdır? `,
+    answers: [{
+      answer: 'bilinç durumu',
+      correct: true,
+    }, {
+      answer: 'dolaşım'
+    }, {
+      answer: 'hava yolu açıklığı'
+    }, {
+      answer: 'hava yolu açıklığı'
+    }
+  ]
+  }
+
+
+
+
+
+
+
+
+
+]
 
   
 export var test2= [{

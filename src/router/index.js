@@ -9,6 +9,8 @@ const routes = [
     path: '/',
     component: TabsPage,
     children: [
+
+      { path: '/', redirect: '/home' },
       
       {
         path: 'home',
